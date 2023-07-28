@@ -1,6 +1,6 @@
 # ParametricContinuousDistributionEstimation
 This work was done using Jupyter Notebook and the Python programming language. The following libraries were used: matplotlib, numpy, pandas, scipy. 
-oFr using this project you need file mars.txt move to the path D:\mars.txt
+To use this project, you need to move the file "mars.txt" to the path "D:\mars.txt."
 
 I have studied the methods of parametric estimation of the distribution of a continuous indicator and mastered the capabilities of Python libraries for conducting parametric distribution estimation.
 
